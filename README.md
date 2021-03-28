@@ -1,1 +1,1 @@
-# wordlist
+# free wordlist
